@@ -24,14 +24,31 @@ An index of all of my work that is on GitHub. Many, many more to come! *Click on
 # Large Team Projects
 
 ## :white_check_mark: [Fantasy World Manager](https://github.com/ForJ-Latech/fwm)
+> 
+> Fantasy World Manager is a program that serves as a Dungeon Master's tool in any tabletop RPG, like Dungeons and Dragons. It allows the Dungeon Master to create, edit, search, and view a database of places, characters, groups, events, gods, etc. on the fly while playing the game. Assign images and sounds to any of the aforementioned entities and allow the players to use their phone to explore the world the Dungeon Master has created.
+>
+> ***This project was created by a small team of agile developers, including a scrum master. We used JIRA to create, assign, and track our user stories. It is written in Java and uses JavaFX for the GUI and Jetty for the web service.***
+> 
+> **I was responsible for the UI and the classes that comprise it, such as the list view that searches the database, as well as the relationship links (and both of their underlying functionalities). I also extended the built in ImageView class to allow the user to drag and drop images to attach them to the entity (person, place, etc.) and save them in the database. My class can also grab images out of HTML links (like, for instance, the Google logo link), so the user can drag images from their browser straight onto an entity in the program. This was achieved by using look-back regular expressions to extract the image source from the raw HTML.**
+>
+
 ## [Unreal Graphics Project](https://github.com/RyanAWalters/UnrealGraphicsProject)
+>
+>
+>
+>
+
 ## [Unreal Python Sudoku Solver](https://github.com/RyanAWalters/UnrealPythonSudokuSolver)
+>
+>
+>
+>
 
 # Large Personal Projects
 
 ## :white_check_mark: [Puxxle (Mobile Game)](https://github.com/RyanAWalters/Puxxle)
 >
-><p align="left"><img src="https://github.com/RyanAWalters/Puxxle/raw/master/img/icon.webp" width=50></p> 
+> <p align="left"><img src="https://github.com/RyanAWalters/Puxxle/raw/master/img/icon.webp" width=50></p> 
 >
 > Puxxle is a unique puzzle game in which you tap on squares of alternating colors. Make all colors the same to win. The fun lies in discovering the algorithms to solve the puzzles as well as challenging records.  
 >
@@ -42,6 +59,7 @@ An index of all of my work that is on GitHub. Many, many more to come! *Click on
 >
 > **This game was made completely by myself in the Summer of 2016. It is made in Unreal Engine and is published to the Google Play Store. The game implements saving, digital currency, and in-app purchases for Android, as well as record tracking and random puzzle generation controllable by seeds.**
 >
+> ### [Find out more on Puxxle's GitHub page!](https://github.com/RyanAWalters/Puxxle)
 
 # Personal Projects
 
