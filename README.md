@@ -6,8 +6,8 @@ An index of all of my work that is on GitHub. Many, many more to come!
 **Large Team Projects**
 ---
 ### :white_check_mark: [Fantasy World Manager](https://github.com/ForJ-Latech/fwm)
-### [Unreal Graphics Project]()
-### [Unreal Sudoku Solver]()
+### [Unreal Graphics Project](https://github.com/RyanAWalters/UnrealGraphicsProject)
+### [Unreal Sudoku Solver](https://github.com/RyanAWalters/UnrealSudokuSolver)
 
 **Large Personal Projects**
 ---
