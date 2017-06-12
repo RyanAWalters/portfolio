@@ -27,7 +27,7 @@ An index of all of my work that is on GitHub. Many, many more to come! *Click on
 
 # Large Personal Projects
 
-## :white_check_mark: [Puxxle](https://github.com/RyanAWalters/Puxxle)
+## :white_check_mark: [Puxxle (Mobile Game)](https://github.com/RyanAWalters/Puxxle)
 >
 ><p align="left"><img src="https://github.com/RyanAWalters/Puxxle/raw/master/img/icon.webp" width=50></p> 
 >
