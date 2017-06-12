@@ -18,6 +18,8 @@ An index of all of my work that is on GitHub. Many, many more to come! *Click on
    * **[Dimes and Quarters Problem - Optimal Solution Finder](#dimes-and-quarters-problem---optimal-solution-finder)**
    * **[Simple pl/0 Compiler](#simple-pl0-compiler)**
 
+---
+
 
 # Large Team Projects
 
