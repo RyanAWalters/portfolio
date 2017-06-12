@@ -4,19 +4,19 @@ An index of all of my work that is on GitHub. Many, many more to come! *Click on
 **All programs marked with a check mark (:white_check_mark:) are complete, released software programs.**
 
 ## Index:
-> * ### **[Large Team Projects](#large-team-projects)**
->   * **:white_check_mark: [Fantasy World Manager](#white_check_mark-fantasy-world-manager)**
->   * **[Unreal Graphics Project](#unreal-graphics-project)**
->   * **[Unreal Python Sudoku Solver](#unreal-python-sudoku-solver)**
-> * ### **[Large Personal Projects](#large-personal-projects)**
->   * **:white_check_mark: [Puxxle](#white_check_mark-puxxle)**
-> * ### **[Personal Projects](#personal-projects)**
->   * **:white_check_mark: [Power of 2 Image Resizer - Game Engine Texture Optimization](#white_check_mark-power-of-2-image-resizer---game-engine-texture-optimization)**
->   * **[Simple Python 3D Graphics Rendering Engine](#simple-python-3d-graphics-rendering-engine)**
->   * **[Advanced Python Lighting Model](#advanced-python-lighting-model)**
-> * ### **[Smaller Assignments](#smaller-assignments)**
->   * **[Dimes and Quarters Problem - Optimal Solution Finder](#dimes-and-quarters-problem---optimal-solution-finder)**
->   * **[Simple pl/0 Compiler](#simple-pl0-compiler)**
+ * ### **[Large Team Projects](#large-team-projects)**
+   * **:white_check_mark: [Fantasy World Manager](#white_check_mark-fantasy-world-manager)**
+   * **[Unreal Graphics Project](#unreal-graphics-project)**
+   * **[Unreal Python Sudoku Solver](#unreal-python-sudoku-solver)**
+ * ### **[Large Personal Projects](#large-personal-projects)**
+   * **:white_check_mark: [Puxxle (Mobile Game)](#white_check_mark-puxxle-mobile-game)**
+ * ### **[Personal Projects](#personal-projects)**
+   * **:white_check_mark: [Power of 2 Image Resizer - Game Engine Texture Optimization](#white_check_mark-power-of-2-image-resizer---game-engine-texture-optimization)**
+   * **[Simple Python 3D Graphics Rendering Engine](#simple-python-3d-graphics-rendering-engine)**
+   * **[Advanced Python Lighting Model](#advanced-python-lighting-model)**
+ * ### **[Smaller Assignments](#smaller-assignments)**
+   * **[Dimes and Quarters Problem - Optimal Solution Finder](#dimes-and-quarters-problem---optimal-solution-finder)**
+   * **[Simple pl/0 Compiler](#simple-pl0-compiler)**
 
 
 # Large Team Projects
