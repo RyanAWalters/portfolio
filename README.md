@@ -1,4 +1,5 @@
 # Portfolio
+
 An index of all of my work that is on GitHub. Many, many more to come! *Click on the name of any project to be taken to its GitHub page.*
 
 **All programs marked with a check mark (:white_check_mark:) are complete, released software programs.**
@@ -27,15 +28,18 @@ An index of all of my work that is on GitHub. Many, many more to come! *Click on
 > 
 > Fantasy World Manager is a program that serves as a Dungeon Master's tool in any tabletop RPG, like Dungeons and Dragons. It allows the Dungeon Master to create, edit, search, and view a database of places, characters, groups, events, gods, etc. on the fly while playing the game. Assign images and sounds to any of the aforementioned entities and allow the players to use their phone to explore the world the Dungeon Master has created.
 >
-> ***This project was created by a small team of agile developers, including a scrum master. We used JIRA to create, assign, and track our user stories. It is written in Java and uses JavaFX for the GUI and Jetty for the web service.***
+> ***This project was created by a small team of agile developers, including a scrum master. We used JIRA to create, assign, and track our user stories. It is written in Java and uses JavaFX for the GUI and Jetty for the web service. We used SVN and Git for version control and Eclipse as our standardized development environment***
 > 
 > **I was responsible for the UI and the classes that comprise it, such as the list view that searches the database, as well as the relationship links (and both of their underlying functionalities). I also extended the built in ImageView class to allow the user to drag and drop images to attach them to the entity (person, place, etc.) and save them in the database. My class can also grab images out of HTML links (like, for instance, the Google logo link), so the user can drag images from their browser straight onto an entity in the program. This was achieved by using look-back regular expressions to extract the image source from the raw HTML.**
 >
 
 ## [Unreal Graphics Project](https://github.com/RyanAWalters/UnrealGraphicsProject)
 >
+> This project is a 3D action game demo where the player must survive onslaughts of enemies. Luckily there are allies to aid you on your mission to scale the mountain and defeat the final boss. All you have is a sword and super-human agility.
+> 
+> This game demo was created by myself and one other person in the span of 2.5 months as a side project. It was created in Unreal Engine and we used Git for version control.
 >
->
+> **I programmed the enemy and ally AI
 >
 
 ## [Unreal Python Sudoku Solver](https://github.com/RyanAWalters/UnrealPythonSudokuSolver)
