@@ -3,6 +3,9 @@ An index of all of my work that is on GitHub. Many, many more to come! *Click on
 
 **All programs marked with a check mark (:white_check_mark:) are complete, released software programs.**
 
+Index:
+[Large Team Rpojects](#white_check_mark-fantasy-world-manager)
+
 # Large Team Projects
 
 ## :white_check_mark: [Fantasy World Manager](https://github.com/ForJ-Latech/fwm)
