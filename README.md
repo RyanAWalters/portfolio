@@ -69,10 +69,36 @@ An index of all of my work that is on GitHub. Many, many more to come! *Click on
 # Personal Projects
 
 ### :white_check_mark: [Power of 2 Image Resizer - Game Engine Texture Optimization](https://github.com/RyanAWalters/PowerOf2ImageResizer)
+>
+> I made this program to scale images to a power of 2 size to facilitate their use as textures in game engines. It is written in Python but is packaged as a binary that is installed on your Windows computer. This is required for the shell extension I wrote that allows the user to simply right-click on images and scale them right there in the file manager.
+>
+> **[If you are unsure what exactly this is for, or you are intersted in downloading it for yourself, visit the GitHub page here](https://github.com/RyanAWalters/PowerOf2ImageResizer)**
+>
+> This Python program uses the [Pillow fork of the Python Imaging Library (PIL)](https://github.com/python-pillow/Pillow) and [PyGame](https://github.com/pygame/pygame) to process images. I wrote this for my personal use to solve a problem I had and save myself a significant amount of time in my regular workflow. I published it here in case anyone else would benefit from it.
+>
+
 ### [Simple Python 3D Graphics Rendering Engine](https://github.com/RyanAWalters/SimplePython3DGraphicsEngine)
+>
+>
+>
+>
+
 ### [Advanced Python Lighting Model](https://github.com/RyanAWalters/PythonAdvancedLightingModeling)
+>
+>
+>
+>
 
 # Smaller Assignments
 
 ### [Dimes and Quarters Problem - Optimal Solution Finder](https://github.com/RyanAWalters/DimesAndQuartersOptimizer)
+>
+>
+>
+>
+
 ### [Simple pl/0 Compiler](https://github.com/RyanAWalters/pl0-compiler)
+>
+>
+>
+>
