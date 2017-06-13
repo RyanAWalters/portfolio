@@ -1,6 +1,6 @@
 # Portfolio
 
-An index of all of my work that is on GitHub. Many, many more to come! *Click on the name of any project to be taken to its GitHub page.*
+An index of all of my work that is on GitHub. Many, many more to come! *Click on the name of any project to be taken to its GitHub page. **Please note that there is much more info including screenshots and videos on the actual project GitHub pages.***
 
 **All programs marked with a check mark (:white_check_mark:) are complete, released software programs.**
 
@@ -79,26 +79,23 @@ An index of all of my work that is on GitHub. Many, many more to come! *Click on
 
 ### [Simple Python 3D Graphics Rendering Engine](https://github.com/RyanAWalters/SimplePython3DGraphicsEngine)
 >
->
->
+> Simple graphics engine written in Python (My *first time* writing Python) that renders various 3D objects/meshes and applies Phong and Gouraud lighting and shading models and allows the manipulation of them (rotation, translation, and scaling). Features backface culling, multiple object selection (and manipulation), Z-buffering, linearly-interpolated triangle filling, shading, lighting, and specular highlighting. It provides a GUI for doing all of this via TKinter.
 >
 
 ### [Advanced Python Lighting Model](https://github.com/RyanAWalters/PythonAdvancedLightingModeling)
 >
->
->
+> Program that renders the classic image of reflective spheres on a checkerboard using recursive ray-tracing, point lighting, Phong shading, and specular highlighting. Uses TKinter for GUI.
 >
 
 # Smaller Assignments
 
 ### [Dimes and Quarters Problem - Optimal Solution Finder](https://github.com/RyanAWalters/DimesAndQuartersOptimizer)
 >
->
->
+> This program was created to find the optimal solution to a problem, as well as a test of making extremely complicated algorithms and data structures more efficient. Solving optimization problems. The explanation of this puzzle/problem is lengthy, so if you're curious check out the GitHub page for more info.
 >
 
 ### [Simple pl/0 Compiler](https://github.com/RyanAWalters/pl0-compiler)
 >
->
+> Simple pl/0 compiler. It checks pl/0 code for errors.
 >
 >
