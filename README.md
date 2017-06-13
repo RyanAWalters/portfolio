@@ -37,15 +37,16 @@ An index of all of my work that is on GitHub. Many, many more to come! *Click on
 >
 > This project is a 3D action game demo where the player must survive onslaughts of enemies. Luckily there are allies to aid you on your mission to scale the mountain and defeat the final boss. All you have is a sword and super-human agility.
 > 
-> This game demo was created by myself and one other person in the span of 2.5 months as a side project. It was created in Unreal Engine and we used Git for version control.
+> This game demo was created by myself and one other person in the span of 2.5 months as a side project in a class. It was created in Unreal Engine, and we used Git for version control.
 >
-> **I programmed the enemy and ally AI
+> **I programmed the landscape and material, the particle effects like the snow on the mountain, and the ally and enemy AI. The landscape material is generated proceduarlly based on altitude (getting snowier the higher you get) and angle (making sheer cliff faces into rocks). The ally and enemy AI both extend from the same parent character AI class I wrote. Allies attack enemies and enemies attack allies (while preferring to target the player). AI will retaliate against attacks and attack AI who attack them.** 
 >
 
 ## [Unreal Python Sudoku Solver](https://github.com/RyanAWalters/UnrealPythonSudokuSolver)
 >
+> This is a sudoku puzzle solver written in Python that interfaces with Unreal Engine for the GUI.
 >
->
+> In this team project, we created a python script to generate and solve sudoku puzzles. It does this by using constrained back-propogation algorithms. But we needed a user interface. I used Unreal Engine and created a sudoku puzzle class and made a simple script that solved the puzzle with a brute force algorithm (significantly slower that the Python script, for effect). Instead of translating the Python code to C++, I used a plugin that allows for OS process creation and created an interface between Unreal Engine and Python.
 >
 
 # Large Personal Projects
@@ -63,7 +64,7 @@ An index of all of my work that is on GitHub. Many, many more to come! *Click on
 >
 > **This game was made completely by myself in the Summer of 2016. It is made in Unreal Engine and is published to the Google Play Store. The game implements saving, digital currency, and in-app purchases for Android, as well as record tracking and random puzzle generation controllable by seeds.**
 >
-> ### [Find out more on Puxxle's GitHub page!](https://github.com/RyanAWalters/Puxxle)
+> ### [Find out more on the GitHub page](https://github.com/RyanAWalters/Puxxle)
 
 # Personal Projects
 
